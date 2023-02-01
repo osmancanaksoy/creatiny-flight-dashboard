@@ -1,0 +1,3 @@
+{
+    "files": ["qml/controls/ComboBoxComPort.qml","qml/pages/homePage.qml","qml/controls/ToggleButton.qml","qml/pages/settingsPage.qml","qml/controls/ComboBoxBaud.qml","qml/controls/LeftMenuButton.qml","qml/controls/ConnectButton.qml","qml/controls/TopBarButton.qml","main.py","deneme.qml","qml/controls/CustomButton.qml"]
+}
